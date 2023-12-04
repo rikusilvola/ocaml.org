@@ -42,7 +42,7 @@ a number of years, or
 	<a href="http://www.opengroup.org/openmotif/">
 	OpenMotif</a>
 released under a license which is in no way
-	<a href="http://www.opensource.org/">
+	<a href="http://www.opensource.org/ - [403 Forbidden]">
 	OSI approved</a>.
 On top of that, Nedit still doesn't support UTF-8, mainly because Lesstif
 doesn't support it.

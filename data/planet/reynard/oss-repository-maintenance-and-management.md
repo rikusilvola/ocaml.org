@@ -79,7 +79,7 @@ source:
 
 <h2>Applying this workflow to the Merlin repository</h2>
 
-<p><a href="https://the-lambda-church.github.io/merlin/">Merlin</a> is an editor service that provides modern IDE features for OCaml. It is maintained by <a href="https://github.com/let-def">Frederic Bour</a> and <a href="https://github.com/the-lambda-church/merlin/blob/master/README.md">various contributors</a> and relies on community support.</p>
+<p><a href="https://the-lambda-church.github.io/merlin/ - [404 Not Found]">Merlin</a> is an editor service that provides modern IDE features for OCaml. It is maintained by <a href="https://github.com/let-def">Frederic Bour</a> and <a href="https://github.com/the-lambda-church/merlin/blob/master/README.md">various contributors</a> and relies on community support.</p>
 
 <p>The workflow application to Merlin is still a work in progress, but Fred and I collectively are looking at the most applicable labels, and looked at how we might use the Projects method in this case.</p>
 

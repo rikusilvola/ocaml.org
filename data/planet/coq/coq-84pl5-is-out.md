@@ -11,6 +11,6 @@ source:
 ---
 
 
-<p>Version <a href="https://coq.inria.fr/coq-84">8.4pl5</a> of Coq fixes several bugs of version 8.4pl4 including the compatibility with OCaml 4.02. More information to be found in the <a href="https://coq.inria.fr/distrib/V8.4pl5/CHANGES">CHANGES</a> file.</p>
+<p>Version <a href="https://coq.inria.fr/coq-84">8.4pl5</a> of Coq fixes several bugs of version 8.4pl4 including the compatibility with OCaml 4.02. More information to be found in the <a href="https://coq.inria.fr/distrib/V8.4pl5/CHANGES - [404 Not Found]">CHANGES</a> file.</p>
 
  

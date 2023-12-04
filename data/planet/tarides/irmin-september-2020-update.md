@@ -144,7 +144,7 @@ hot-loops:</p>
 
 <span class="token keyword">let</span> int_of_file_fast <span class="token label property">~path</span> <span class="token operator">=</span> open_in_bin path <span class="token operator">|&gt;</span> input_line <span class="token operator">|&gt;</span> decode_int32 contents</code></pre></div>
 <p>We made similar changes to the performance-critical generic functions in
-<a href="https://mirage.github.io/irmin/irmin/Irmin/Type/index.html"><code>Irmin.Type</code></a>, and observed significant performance improvements.
+<a href="https://mirage.github.io/irmin/irmin/Irmin/Type/index.html - [404 Not Found]"><code>Irmin.Type</code></a>, and observed significant performance improvements.
 We also added benchmarks for serialising various types.</p>
 <div style="text-align: center;">
   <img src="https://tarides.com/staged-type.svg" style="height: 550px; max-width: 100%"/>

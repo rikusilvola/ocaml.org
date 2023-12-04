@@ -98,12 +98,12 @@ persistence environment for Irmin, please try this out.  This is the
 preferred backend for using Irmin storage in a unikernel.</p>
 <p>###&nbsp;Versioned CalDAV</p>
 <p>An application pulling all these pieces together is being developed
-by our friends at <a href="https://robur.io/About%20Us/Team">Robur</a>: an Irmin-based
+by our friends at <a href="https://robur.io/About%20Us/Team - [1 Client error: Couldn't resolve host name]">Robur</a>: an Irmin-based
 <a href="https://github.com/roburio/caldav">CalDAV calendaring server</a>
 that even hosts its DNS server using a versioned Irmin store.  We'll
 blog more about this as the components get released and stabilised, but
 the unikernel enthusiasts among you may want to browse the
-<a href="https://github.com/roburio/unikernels/tree/future">Robur unikernels future branch</a>
+<a href="https://github.com/roburio/unikernels/tree/future - [404 Not Found]">Robur unikernels future branch</a>
 to see how they are deploying them today.</p>
 <p>A huge thank you to all our commercial customers, end users and open-source
 developers who have contributed their time, expertise and

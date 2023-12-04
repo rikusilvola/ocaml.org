@@ -13,8 +13,8 @@ source:
 ---
 
 <p><i>For more half-baked ideas, see <a href="https://rwmj.wordpress.com/tag/ideas/">the ideas tag</a>.</i></p>
-<p><i>If you prefer just to see the code, then it&rsquo;s <a href="http://git.annexia.org/?p=ilenstr.git%3Ba=summary">here</a>.</i></p>
-<p>Chris Siebenmann wrote a couple of interesting articles about <a href="https://utcc.utoronto.ca/~cks/space/blog/programming/CNullStringsDefense">C&rsquo;s null terminated strings</a> and <a href="https://utcc.utoronto.ca/~cks/space/blog/unix/UnixEarlyStrings">how they pre-date C</a>.</p>
+<p><i>If you prefer just to see the code, then it&rsquo;s <a href="http://git.annexia.org/?p=ilenstr.git%3Ba=summary - [404 Not Found]">here</a>.</i></p>
+<p>Chris Siebenmann wrote a couple of interesting articles about <a href="https://utcc.utoronto.ca/~cks/space/blog/programming/CNullStringsDefense - [403 Forbidden]">C&rsquo;s null terminated strings</a> and <a href="https://utcc.utoronto.ca/~cks/space/blog/unix/UnixEarlyStrings - [403 Forbidden]">how they pre-date C</a>.</p>
 <p>Chris notes an alternative is a length + string representation, as used in Pascal.  Although there are libraries for this in C, there are several drawbacks and approximately no one uses them.</p>
 <p>However it&rsquo;s possible to have the best of both worlds: <b>Strings using an <i>implicit length field</i> that takes up no extra storage.  These strings are backwards compatible with ordinary C strings &mdash; you can literally pass them to legacy functions or cast them to <code>char&nbsp;*</code> &mdash; yet the equivalent of a strlen operation is O(1).</b></p>
 <p>There are two ideas here: Firstly, when you use the C malloc function, <a href="https://stackoverflow.com/questions/5813078/is-it-possible-to-find-the-memory-allocated-to-the-pointer-without-searching-fo/5813450#5813450">malloc stashes some extra metadata about your allocation</a>, and with most malloc implementations there is a function to obtain the size of the allocation from a pointer.  In glibc, the function is called <code>malloc_usable_size</code>.  Note that because of alignment concerns, the amount allocated is usually larger than the amount you originally requested.</p>
@@ -50,5 +50,5 @@ source:
 <p><code>ilenstr</code> strings are also backwards compatible, in that we can pass one to any &ldquo;legacy&rdquo; C function, and assuming the string itself doesn&rsquo;t contain any <code>\0</code> inside it, everything just works.</p>
 <p>Alright.  This is terrible.  <b>DO NOT USE IT IN PRODUCTION CODE!</b>  It breaks all kinds of standards, is unportable etc.  There are security issues with allowing \0-containing strings to be passed to legacy functions.  Still, it&rsquo;s a nice idea.  With proper cooperation from libc, standards authorities and so on, it could be made to work.</p>
 <p>Here is my git repo:</p>
-<p><a href="http://git.annexia.org/?p=ilenstr.git%3Ba=summary">http://git.annexia.org/?p=ilenstr.git;a=summary</a></p>
+<p><a href="http://git.annexia.org/?p=ilenstr.git%3Ba=summary - [404 Not Found]">http://git.annexia.org/?p=ilenstr.git;a=summary</a></p>
 

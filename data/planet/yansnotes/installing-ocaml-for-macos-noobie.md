@@ -61,11 +61,11 @@ My IDE of choice is Eclipse<a href="https://www.blogger.com/blogger.g?blogID=954
 <div>
 <br/></div>
 <div>
-There are multiple guides (from <a href="http://www.seas.upenn.edu/~cis120/current/ocaml_setup.shtml" target="_blank">Upenn</a>, <a href="http://www.cs.jhu.edu/~scott/pl/caml/ocaide.shtml" target="_blank">JSU</a>) on the web on how to do just that, just make sure that you get all the prerequesite components such as Java 7 installed and ready to go.</div>
+There are multiple guides (from <a href="http://www.seas.upenn.edu/~cis120/current/ocaml_setup.shtml - [404 Not Found]" target="_blank">Upenn</a>, <a href="http://www.cs.jhu.edu/~scott/pl/caml/ocaide.shtml - [404 Not Found]" target="_blank">JSU</a>) on the web on how to do just that, just make sure that you get all the prerequesite components such as Java 7 installed and ready to go.</div>
 <div>
 <br/></div>
 <div>
-<a href="http://www.seas.upenn.edu/~cis120/current/ocaml_setup.shtml" target="_blank">Upenn CS120</a> provides a nice list for you to follow, make sure that you do! - thanks guys!</div>
+<a href="http://www.seas.upenn.edu/~cis120/current/ocaml_setup.shtml - [404 Not Found]" target="_blank">Upenn CS120</a> provides a nice list for you to follow, make sure that you do! - thanks guys!</div>
 <div>
 <br/></div>
 <blockquote class="tr_bq">

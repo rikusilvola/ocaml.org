@@ -12,7 +12,7 @@ source:
 
 <p>I am at the <a href="http://www.ipam.ucla.edu/programs/workshops/machine-assisted-proofs/">Machine assisted proofs</a> workshop at the <a href="http://www.ipam.ucla.edu">UCLA Institute for Pure and Applied Mathematics</a>, where I am about to give a talk on &ldquo;Formalizing invisible mathematics&rdquo;.</p>
 
-<p>Here are the <a href="http://math.andrej.com/asset/data/formalizing-invisible-mathematics.pdf">slides with speaker notes</a> and the <a href="https://youtu.be/wZSvuCJBaFU">video recording of the talk</a>.</p>
+<p>Here are the <a href="http://math.andrej.com/asset/data/formalizing-invisible-mathematics.pdf">slides with speaker notes</a> and the <a href="https://youtu.be/wZSvuCJBaFU - [429 Too Many Requests]">video recording of the talk</a>.</p>
 
 
 

@@ -46,7 +46,7 @@ does think that Arrows are the right solution.
 <p>
 Our second presenter for the evening was Anthony Sloane of Macquarie University
 on the subject of the
-	<a href="http://code.google.com/p/kiama/wiki/Research">
+	<a href="http://code.google.com/p/kiama/wiki/Research - [500 Internal Server Error]">
 	&quot;Launchbury's Natural Semantics for Lazy Evaluation&quot;</a>
 with Scala code available on the same page.
 Tony set up a simple language and then walked us through the reduction rules

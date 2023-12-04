@@ -11,9 +11,9 @@ authors:
 
 
         <p>Now that Mirage OS is rapidly converging on a
-<a href="http://github.com/avsm/mirage/issues/102">Developer Preview Release 1</a>, we
+<a href="http://github.com/avsm/mirage/issues/102 - [404 Not Found]">Developer Preview Release 1</a>, we
 took it for a first public outing at
-<a href="http://www.oscon.com/oscon2013/">OSCON'13</a>, the O'Reilly Open Source
+<a href="http://www.oscon.com/oscon2013/ - [1 Client error: Timeout was reached]">OSCON'13</a>, the O'Reilly Open Source
 Conference. OSCON is in its 15th year now, and is a meeting place for
 developers, business people and investors. It was a great opportunity to show
 MirageOS off to some of the movers and shakers in the OSS world.</p>
@@ -24,21 +24,21 @@ slide deck on Mirage: after some last-minute hacking -- on content not Mirage
 I should add! -- we built a self-contained unikernel of the talk.</p>
 <p>This was what you might call a &quot;full stack&quot; presentation: the custom
 unikernel (flawlessly!) ran a type-safe
-<a href="https://github.com/mirage/mirage-platform/blob/master/xen/lib/netif.ml">network device driver</a>,
+<a href="https://github.com/mirage/mirage-platform/blob/master/xen/lib/netif.ml - [404 Not Found]">network device driver</a>,
 OCaml <a href="http://github.com/mirage/mirage-net">TCP/IP stack</a> supporting an OCaml
 <a href="http://github.com/mirage/ocaml-cohttp">HTTP</a> framework that served slides
 rendered using <a href="http://lab.hakim.se/reveal-js/">reveal.js</a>. The slide deck,
 including the turbo-boosted
-<a href="http://www.youtube.com/watch?v=2Mx8Bd5JYyo">screencast</a> of the slide deck
+<a href="http://www.youtube.com/watch?v=2Mx8Bd5JYyo - [429 Too Many Requests]">screencast</a> of the slide deck
 compilation, is hosted as another MirageOS virtual machine at
-<a href="http://decks.openmirage.org/">decks.openmirage.org</a>. We hope to add more
+<a href="http://decks.openmirage.org/ - [1 Client error: Timeout was reached]">decks.openmirage.org</a>. We hope to add more
 slide decks there soon, including resurrecting the tutorial! The source code
 for all this is in the <a href="http://github.com/mirage/mirage-decks">mirage-decks</a>
 GitHub repo.</p>
 <h3>The Talk</h3>
 <p>The talk went down pretty well -- given we were in a graveyard slot on Friday
 after many people had left, attendance was fairly high (around 30-40), and the
-<a href="http://www.oscon.com/oscon2013/public/schedule/detail/28956">feedback scores</a>
+<a href="http://www.oscon.com/oscon2013/public/schedule/detail/28956 - [1 Client error: Timeout was reached]">feedback scores</a>
 have been positive (averaging 4.7/5) with comments including &quot;excellent
 content and well done&quot; and &quot;one of the most excited projects I heard about&quot;
 (though we are suspicious that just refers to Anil's usual high-energy
@@ -67,7 +67,7 @@ forthcoming Mirage/Xen/ARM backend. We're pretty much just waiting for the
 <a href="http://cubieboard.org">Cubieboard2</a> kernel patches to be upstreamed (keep an
 eye <a href="http://linux-sunxi.org/Main_Page">here</a>) so that we can boot Xen/ARM VMs
 on tiny ARM devices.  There's a full report about this on the
-<a href="http://blog.xen.org/index.php/2013/07/31/the-xen-project-at-oscon/">xen.org</a>
+<a href="http://blog.xen.org/index.php/2013/07/31/the-xen-project-at-oscon/ - [1 Client error: Timeout was reached]">xen.org</a>
 blog post about OSCon.</p>
 <h3>Galois and HalVM</h3>
 <p>We also stopped by the <a href="http://galois.com">Galois</a> to chat with <a href="https://twitter.com/acwpdx">Adam

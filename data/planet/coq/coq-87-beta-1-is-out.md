@@ -42,7 +42,7 @@ Coq 8.7 includes:
     <tt>_CoqProject</tt> files more palatable to IDEs by Enrico Tassi.</li>
 </ul>
 
-<p>More information can be found in the <a href="https://coq.inria.fr/distrib/V8.7+beta1/CHANGES">CHANGES</a> file. Feedback and
+<p>More information can be found in the <a href="https://coq.inria.fr/distrib/V8.7+beta1/CHANGES - [404 Not Found]">CHANGES</a> file. Feedback and
 <a href="https://coq.inria.fr/bugs">bug reports</a> are extremely welcome.</p>
 
 <p>This is the second release of Coq developed on a time-based development

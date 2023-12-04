@@ -10,14 +10,14 @@ authors:
 source:
 ---
 
-<p>Thank you to everyone who attended the <a href="http://reynard.io/2016/11/02/CompilerHack.html">hack event</a> last night! We had over 20 attendees who came to work on issues related to the <a href="http://ocaml.org/">OCaml</a> compiler or <a href="https://mirage.io/">MirageOS</a>, from varied organisations including the <a href="https://www.cl.cam.ac.uk/">University of Cambridge</a>, <a href="https://www.docker.com/">Docker</a>, <a href="https://www.janestreet.com/technology/">Jane Street</a>, <a href="https://www.citrix.co.uk/">Citrix</a>, <a href="https://www.uber.com/en-GB/cities/london/">Uber</a> and <a href="http://www.hitachi.com/">Hitachi</a>.</p>
+<p>Thank you to everyone who attended the <a href="http://reynard.io/2016/11/02/CompilerHack.html">hack event</a> last night! We had over 20 attendees who came to work on issues related to the <a href="http://ocaml.org/">OCaml</a> compiler or <a href="https://mirage.io/">MirageOS</a>, from varied organisations including the <a href="https://www.cl.cam.ac.uk/">University of Cambridge</a>, <a href="https://www.docker.com/">Docker</a>, <a href="https://www.janestreet.com/technology/">Jane Street</a>, <a href="https://www.citrix.co.uk/">Citrix</a>, <a href="https://www.uber.com/en-GB/cities/london/ - [406 Not Acceptable]">Uber</a> and <a href="http://www.hitachi.com/">Hitachi</a>.</p>
 
 <p>
 <img src="http://reynard.io/images/CompHack9:11:16.JPG" alt="Pembroke Hack Event" width="200"/>
 <img src="http://reynard.io/images/2CompHack9:11:16.JPG" alt="Pembroke College" width="200"/>
 </p>
 
-<p>Friendly conversation, wine and one eye on the <a href="http://www.bbc.co.uk/news/election-us-2016-37932231">political</a> <a href="http://www.databoxproject.uk/">news</a> of the day led to a productive evening of PRs, merges, documentation and project discussion.</p>
+<p>Friendly conversation, wine and one eye on the <a href="http://www.bbc.co.uk/news/election-us-2016-37932231">political</a> <a href="http://www.databoxproject.uk/ - [403 Forbidden]">news</a> of the day led to a productive evening of PRs, merges, documentation and project discussion.</p>
 
 <p>Join us for our next hack event at Pembroke College on 7th February 2017, more details to follow.</p>
 
@@ -46,7 +46,7 @@ source:
 <ul>
   <li>Maxime Lesourd and Olivier Nicole found a junior job to work on <a href="https://github.com/ocamllabs/compiler-hacking/wiki/Things-to-work-on#signatured-open-command">signatured open command</a> and got about halfway through the process.</li>
   <li>Dave Tucker started using <a href="https://github.com/ocamllabs/ocaml-ctypes">ocaml-ctypes</a> to build inverted stubs for MacOS X libraries for remote forwarding.</li>
-  <li>Magnus Sjekgstad started work on OCaml bindings to the <a href="https://github.com/MagnusS/ocaml-utun">utun</a> device.</li>
+  <li>Magnus Sjekgstad started work on OCaml bindings to the <a href="https://github.com/MagnusS/ocaml-utun - [404 Not Found]">utun</a> device.</li>
   <li>Gemma Gordon worked on the Merlin editor <a href="https://github.com/the-lambda-church/merlin/projects/1">project roadmap</a> and <a href="https://github.com/the-lambda-church/merlin/issues">issue labelling</a> workflow.</li>
   <li>David Allsopp reviewed and merged the <a href="https://github.com/ocaml/ocaml/pull/866">PR</a> related to merging build systems in the stdlib directory.</li>
 </ul>

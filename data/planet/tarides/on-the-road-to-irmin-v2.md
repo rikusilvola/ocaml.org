@@ -46,7 +46,7 @@ for <a href="https://github.com/mirage/ocaml-git/pull/351">listing remotes</a>, 
 more.</p>
 <p>These fixes are possible because users tried end-to-end usecases that
 found these corner cases, so we&rsquo;d really like to see more.  For
-example, our friends at <a href="https://robur.io">Robur</a> have submitted fixes
+example, our friends at <a href="https://robur.io - [1 Client error: Couldn't resolve host name]">Robur</a> have submitted fixes
 from their integration of it into their upcoming <a href="https://github.com/roburio/caldav">CalDAV engine</a>.
 The Mirage <a href="https://github.com/Engil/Canopy">canopy</a> blog engine can now also
 push/pull reliably from pure MirageOS unikernels between nodes, which

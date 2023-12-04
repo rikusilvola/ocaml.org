@@ -57,7 +57,7 @@ what happens if we <strong>fail</strong> to do so. There is even a <a href="http
 page</a> about this, which is a nice starting point. Some
 of the highlights:</p>
 <p>The first public release of Netscape's original SSL, version 2.0, was
-<a href="http://prng.net/faq/netscape-ssl/">broken</a> several months after its release. The weakness
+<a href="http://prng.net/faq/netscape-ssl/ - [404 Not Found]">broken</a> several months after its release. The weakness
 was in initializing the RNG with the current time, the process ID and the parent
 process ID of the browser. The time stamp can be guessed to a certain precision,
 leaving only its sub-second part and the two PIDs unknown. This relatively small
@@ -78,7 +78,7 @@ affected keys, a technique which produces
 <a href="https://eprint.iacr.org/2013/599">spectacular</a> <a href="https://factorable.net/weakkeys12.extended.pdf">results</a>.</p>
 <p>Recently, a bitcoin application for Android was
 <a href="https://www.reddit.com/r/Bitcoin/comments/37oxow/the_security_issue_of_blockchaininfos_android/">discovered</a> to be downloading its random initial value from a
-<a href="http://www.random.org">website</a>. It wasn't even necessary to intercept this
+<a href="http://www.random.org - [403 Forbidden]">website</a>. It wasn't even necessary to intercept this
 unencrypted traffic, because the website started serving a redirect page and the
 Android application was left initializing its RNG with the text of the redirection
 message. It therefore started
@@ -100,7 +100,7 @@ operating system, you don't want to end up on that Wikipedia page either.</p>
 somehow &quot;dancing around&quot;, or being &quot;jiggly&quot; in a sense. If we have a software
 component that keeps producing random outputs, these outputs form a sequence,
 and we hope this to be a <a href="https://en.wikipedia.org/wiki/Random_sequence">random sequence</a>.</p>
-<p>But such a thing is <a href="https://xkcd.com/221">notoriously</a> <a href="http://dilbert.com/strip/2001-10-25">difficult</a> to define.
+<p>But such a thing is <a href="https://xkcd.com/221">notoriously</a> <a href="http://dilbert.com/strip/2001-10-25 - [404 Not Found]">difficult</a> to define.
 The above linked page opens with the following quote:</p>
 <blockquote>
 <p>A random sequence is a vague notion... in which each term is unpredictable to
@@ -209,7 +209,7 @@ barely sees any physical hardware. Users do not interact with VMs in server
 scenarios using a directly-connected keyboard and mouse. VMs make use of a
 virtualized network interface and virtualized disks. Even the CPU features can
 be intercepted and virtualized. Virtual environments are entropy-starved.</p>
-<p>This is a known problem and <a href="http://www.cs.berkeley.edu/~cthompson/papers/vmm-entropy-report-2011.pdf">various</a>
+<p>This is a known problem and <a href="http://www.cs.berkeley.edu/~cthompson/papers/vmm-entropy-report-2011.pdf - [404 Not Found]">various</a>
 <a href="http://www.ieee-security.org/TC/SP2014/papers/Not-So-RandomNumbersinVirtualizedLinuxandtheWhirlwindRNG.pdf">analyses</a> of the weakness of random outputs in virtual
 environments have been published. The problem is especially severe right after
 boot. The gradual trickle of unpredictability from hardware events slowly moves

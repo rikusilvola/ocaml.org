@@ -12,7 +12,7 @@ source:
 ---
 
 <p>In celebration of the OCaml 5 release, we decided to interview a few of our talented engineers about OCaml. While it isn't a well-known language outside of the functional programming community, we're striving to get the word out about the great benefits of OCaml and why it's worth your time to try it out, especially with the introduction of <a href="https://tarides.com/blog/2022-12-19-ocaml-5-with-multicore-support-is-here">Multicore support in OCaml 5</a>.</p>
-<p>KC Sivaramakrishnan's inspiring <a href="https://www.youtube.com/watch?v=zJ4G0TKwzVc">keynote address</a> is a great introduction to OCaml 5 and all it offers. Check out the <a href="https://speakerdeck.com/kayceesrk/retrofitting-concurrency-lessons-from-the-engine-room">speaker deck</a> as well.</p>
+<p>KC Sivaramakrishnan's inspiring <a href="https://www.youtube.com/watch?v=zJ4G0TKwzVc - [429 Too Many Requests]">keynote address</a> is a great introduction to OCaml 5 and all it offers. Check out the <a href="https://speakerdeck.com/kayceesrk/retrofitting-concurrency-lessons-from-the-engine-room">speaker deck</a> as well.</p>
 <p>Today our engineer Jules Aguillon, who works primarily on our OCaml Platform tooling project, talks about his journey to OCaml, what he enjoys about the language, and why he thinks you should learn it! Take it away Jules!</p>
 <hr/>
 <p><strong>Christine: How did you start programming?</strong></p>

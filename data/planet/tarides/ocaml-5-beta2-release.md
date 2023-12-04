@@ -12,7 +12,7 @@ source:
 ---
 
 <p>Just about a month after the <a href="https://tarides.com/blog/2022-10-17-ocaml-5-beta-release">OCaml 5 Beta release</a>, the OCaml 5 Beta2 version has been released, taking us one step closer to the full OCaml 5 with Multicore release later this year. The OCaml community's collaboration is coming to fruition! Although we're not quite ready for the RC1 (Release Candidate) version, several things have been added and improved with Beta2.</p>
-<p>To learn more about the exciting things coming with OCaml 5, please watch KC Sivaramakrishnan&rsquo;s <a href="https://www.youtube.com/watch?v=zJ4G0TKwzVc">keynote address</a> and check out <a href="https://speakerdeck.com/kayceesrk/retrofitting-concurrency-lessons-from-the-engine-room">his speaker slide deck</a> as well. As always, feel free to <a href="https://tarides.com/company">contact us</a> for more information about using OCaml and for support on your OCaml projects.</p>
+<p>To learn more about the exciting things coming with OCaml 5, please watch KC Sivaramakrishnan&rsquo;s <a href="https://www.youtube.com/watch?v=zJ4G0TKwzVc - [429 Too Many Requests]">keynote address</a> and check out <a href="https://speakerdeck.com/kayceesrk/retrofitting-concurrency-lessons-from-the-engine-room">his speaker slide deck</a> as well. As always, feel free to <a href="https://tarides.com/company">contact us</a> for more information about using OCaml and for support on your OCaml projects.</p>
 <p>Here's a partial list of improvements/fixes with <a href="https://github.com/ocaml/ocaml/issues">issue numbers</a>:</p>
 <ul>
 <li><a href="https://github.com/ocaml/ocaml/pull/11631">#11631</a> - fix an assertion dealing with a segfault found by the Multicore test suite</li>

@@ -30,5 +30,5 @@ testing. The 8.5 version brings several major features to Coq:
 </ul>
 
 More information about the changes from 8.4 to 8.5 and since the first
-beta release can be found in the <a href="https://coq.inria.fr/distrib/V8.5beta2/CHANGES">CHANGES</a> file. Feedback and <a href="https://coq.inria.fr/bugs">bug reports</a> are extremely welcome. Enjoy!  
+beta release can be found in the <a href="https://coq.inria.fr/distrib/V8.5beta2/CHANGES - [404 Not Found]">CHANGES</a> file. Feedback and <a href="https://coq.inria.fr/bugs">bug reports</a> are extremely welcome. Enjoy!  
  

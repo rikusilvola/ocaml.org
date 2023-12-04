@@ -10,9 +10,9 @@ authors:
 source:
 ---
 
-<p>The team working on the <a href="http://www.databoxproject.uk/">Databox Project</a> hosted their Cambridge open-source community launch on Friday 24th March at <a href="https://www.darwin.cam.ac.uk/">Darwin College</a>, Cambridge.</p>
+<p>The team working on the <a href="http://www.databoxproject.uk/ - [403 Forbidden]">Databox Project</a> hosted their Cambridge open-source community launch on Friday 24th March at <a href="https://www.darwin.cam.ac.uk/">Darwin College</a>, Cambridge.</p>
 
-<p><strong>UPDATE: <a href="https://www.databoxproject.uk/2017/03/28/databox-open-source-software-community-launch-2/">Slides and notes</a> from the event are now available</strong></p>
+<p><strong>UPDATE: <a href="https://www.databoxproject.uk/2017/03/28/databox-open-source-software-community-launch-2/ - [410 Gone]">Slides and notes</a> from the event are now available</strong></p>
 
 <p>The event served to introduce the motives behind Databox, the structure of the project and to gauge use cases within the community and potential application developers. The team presented the initial release of a working open source Databox platform, which includes basic data collection support through mobile sensing libraries and selected APIs, provides basic data flow policing and privacy policy enforcement, and supports installation and operation of simple personal data processing apps.</p>
 
@@ -45,7 +45,7 @@ source:
   <li><a href="https://github.com/me-box/databox-driver-template-node">driver</a> templates</li>
 </ul>
 
-<p>Join the community discussion in the <a href="https://forum.databoxproject.uk/">Databox Discourse</a> forum.</p>
+<p>Join the community discussion in the <a href="https://forum.databoxproject.uk/ - [410 Gone]">Databox Discourse</a> forum.</p>
 
 <hr/>
 
@@ -101,7 +101,7 @@ source:
 
 <h2>UI and SDK</h2>
 
-<p>The <a href="https://sdk.iotdatabox.com/login">SDK</a> provides a user-friendly cloud environment for building Databox applications quickly, and finding approved applications to use on your own Databox - you simply require a GitHub login to access it. The graphical programming environment allows you drag in and connect nodes, view the function output, and debug if needed. There are other useful details such as built-in virtualisations that allow you to view your data as graphs, lists etc, and application manifests which include any resources your app needs and different levels of functionality to correspond with existing devices. Current applications include Hue lights, a mobile sensing driver and Twitter.</p>
+<p>The <a href="https://sdk.iotdatabox.com/login - [1 Client error: Couldn't resolve host name]">SDK</a> provides a user-friendly cloud environment for building Databox applications quickly, and finding approved applications to use on your own Databox - you simply require a GitHub login to access it. The graphical programming environment allows you drag in and connect nodes, view the function output, and debug if needed. There are other useful details such as built-in virtualisations that allow you to view your data as graphs, lists etc, and application manifests which include any resources your app needs and different levels of functionality to correspond with existing devices. Current applications include Hue lights, a mobile sensing driver and Twitter.</p>
 
 <p>
 <img src="http://reynard.io/images/DataboxSDK.png" alt="Stage 1" width="200"/>

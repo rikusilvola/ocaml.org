@@ -28,7 +28,7 @@ A **shell** is a program that will let you enter commands in a text window using
 * On Windows, you can start PowerShell by pressing the Windows key (`⊞`), typing "PowerShell," and then clicking Open `Windows PowerShell`. There is an older shell called "Command Prompt" you can use as well
 * On Linux, you are already familiar with a shell (typically bash or zsh)
 
-The code blocks (in black) on this page show the required commands (the text after `#` gives more information on the following commands). Type each command after the prompt `$`, although it's often represented by a `%`, `>`, or another symbol as well. Ensure you use the exact case and spacing shown, then hit return/enter at the end of every line. For more information on using the CLI, please visit the [Command Line Crash Course video](https://www.youtube.com/watch?v=yz7nYlnXLfE) to learn some basics.
+The code blocks (in black) on this page show the required commands (the text after `#` gives more information on the following commands). Type each command after the prompt `$`, although it's often represented by a `%`, `>`, or another symbol as well. Ensure you use the exact case and spacing shown, then hit return/enter at the end of every line. For more information on using the CLI, please visit the [Command Line Crash Course video](https://www.youtube.com/watch?v=yz7nYlnXLfE - [429 Too Many Requests]) to learn some basics.
 
 ## Installing OCaml
 
@@ -218,7 +218,7 @@ The OCaml toplevel, version 4.14.0
 ```
 
 To learn more about Diskuv OCaml, see the [official
-Diskuv OCaml documentation](https://diskuv-ocaml.gitlab.io/distributions/dkml/#introduction).
+Diskuv OCaml documentation](https://diskuv-ocaml.gitlab.io/distributions/dkml/#introduction - [403 Forbidden]).
 
 ### The OCaml Base Tools are Now Installed
 

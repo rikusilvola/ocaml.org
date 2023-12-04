@@ -46,13 +46,13 @@ one of your videos, please do <a href="mailto:mirageos-devel@lists.xenproject.or
 <div class="flex-video">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Ud3NGqRRGc4" frameborder="0" allowfullscreen=""></iframe>
 </div>
-<p><strong><a href="http://somerandomidiot.com">Mindy Preston</a> at Strangeloop - Sep 2015</strong><br/>
+<p><strong><a href="http://somerandomidiot.com - [1 Client error: Timeout was reached]">Mindy Preston</a> at Strangeloop - Sep 2015</strong><br/>
 <strong>'Non-Imperative Network Programming'</strong></p>
 <div class="flex-video">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/GNc1t6Q5Dls" frameborder="0" allowfullscreen=""></iframe>
 </div>
 <p>Mindy also wrote a post that has some information and links:
-<a href="http://somerandomidiot.com/blog/2015/10/07/ocaml-workshop-and-strange-loop-talks">http://somerandomidiot.com/blog/2015/10/07/ocaml-workshop-and-strange-loop-talks</a></p>
+<a href="http://somerandomidiot.com/blog/2015/10/07/ocaml-workshop-and-strange-loop-talks - [1 Client error: Timeout was reached]">http://somerandomidiot.com/blog/2015/10/07/ocaml-workshop-and-strange-loop-talks - [1 Client error: Timeout was reached]</a></p>
 <p><strong><a href="https://twitter.com/mattbajor">Matt Bajor</a> at Strangeloop - Sep 2015</strong><br/>
 <strong>'Look ma, no OS! Unikernels and their applications'</strong></p>
 <div class="flex-video">

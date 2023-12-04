@@ -10,15 +10,15 @@ authors:
 source:
 ---
 
-<p>Since 2 weeks, I have been busy working on the <a href="http://forge.ocamlcore.org">forge</a>. I have decided that the <a href="http://fusionforge.org">FusionForge</a> migration should be done before the end of the year and this is now a reality. The OCaml Forge is now running using FusionForge, not yet stable, 5.1 branch.</p>
+<p>Since 2 weeks, I have been busy working on the <a href="http://forge.ocamlcore.org">forge</a>. I have decided that the <a href="http://fusionforge.org - [500 Internal Server Error]">FusionForge</a> migration should be done before the end of the year and this is now a reality. The OCaml Forge is now running using FusionForge, not yet stable, 5.1 branch.</p>
 <p style="text-align: center;"><img src="http://www.ocamlcore.com/wp/wp-content/uploads/pow-fusionforge.png" width="166" height="37" alt=""/></p>
 <p>I have changed my mind concerning the forge. Rather than sticking to Debian stable GForge packages, we will use an half customized forge.</p>
 <h3>What&rsquo;s new in OCaml Forge ?</h3>
 <p>The forge now officialy supports more version control systems:</p>
 <ul>
-<li>darcs, see the project <a href="https://forge.ocamlcore.org/scm/?group_id=54">OASIS</a></li>
-<li>git, see the project <a href="https://forge.ocamlcore.org/scm/?group_id=175">Extunix</a></li>
-<li>bzr, see the project <a href="https://forge.ocamlcore.org/scm/?group_id=40">Delimited Overloading</a></li>
+<li>darcs, see the project <a href="https://forge.ocamlcore.org/scm/?group_id=54 - [404 Not Found]">OASIS</a></li>
+<li>git, see the project <a href="https://forge.ocamlcore.org/scm/?group_id=175 - [404 Not Found]">Extunix</a></li>
+<li>bzr, see the project <a href="https://forge.ocamlcore.org/scm/?group_id=40 - [404 Not Found]">Delimited Overloading</a></li>
 </ul>
 <p style="text-align: center;"><img src="http://www.ocamlcore.com/wp/wp-content/uploads/bzr.jpeg" width="400" height="173" alt=""/></p>
 <p>You can also request to create a personal git repository for project using git.</p>
@@ -58,17 +58,17 @@ source:
 <h3>OCaml Forge in general</h3>
 <p>If you want to make some advertising around for the OCamlCore.org website:</p>
 <ul>
-<li>Display this logo on your project page or your personal page (see <a href="http://www.ocamlcore.org/spread-the-word/">here</a> for up-to-date instructions)</li>
+<li>Display this logo on your project page or your personal page (see <a href="http://www.ocamlcore.org/spread-the-word/ - [404 Not Found]">here</a> for up-to-date instructions)</li>
 </ul>
 <p style="text-align: center;"><img src="http://www.ocamlcore.com/wp/wp-content/uploads/logo-forge.png" width="128" height="26" alt=""/></p>
 <ul>
-<li>Add this text to your mail signature (see <a href="http://www.ocamlcore.org/spread-the-word/">here</a> for up-to-date instructions)</li>
+<li>Add this text to your mail signature (see <a href="http://www.ocamlcore.org/spread-the-word/ - [404 Not Found]">here</a> for up-to-date instructions)</li>
 </ul>
 <p><code>Want to start an OCaml project: http://forge.ocamlcore.org <br/>
 OCaml blogs:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; http://planet.ocamlcore.org  <br/>
 </code></p>
 <ul>
-<li>Add your blog to the <a href="http://www.ocamlcore.org/planet/">Planet</a></li>
+<li>Add your blog to the <a href="http://www.ocamlcore.org/planet/ - [404 Not Found]">Planet</a></li>
 </ul>
 <p>The OCaml Forge is now serving 190 projects for 300 users. We reach our initial goals and have enough data to show that OCaml community is working. We will continue to serve the OCaml community and to give more visibility to OCaml projects.</p>
 <p>If you want to help, you can open feature request or bugs against the <a href="https://forge.ocamlchttps//forge.ocamlcore.org/tracker/?group_id=1ore.org/tracker/?group_id=1">Site Admin</a> project. This is a place where we can coordinate for site wide changes. For examples, here is a non-exhaustive list of how you can help us:</p>
@@ -76,7 +76,7 @@ OCaml blogs:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 <li>Fill bugs concerning *.ocamlcore.org websites</li>
 <li>Discuss how to spread the word: explain how you think we can make the OCaml community more visible</li>
 <li>Start or move your project on the forge, even if you host your source code elsewhere (Github), don&rsquo;t hesitate to use the OCaml Forge as a distribution or backup website</li>
-<li>Checkout the FusionForge <a href="http://git.ocamlcore.org/cgi-bin/gitweb.cgi?p=siteadmin/fusionforge.git%3Ba=summary">sources</a> of forge.ocamlcore.org and help us to maintain them</li>
+<li>Checkout the FusionForge <a href="http://git.ocamlcore.org/cgi-bin/gitweb.cgi?p=siteadmin/fusionforge.git%3Ba=summary - [404 Not Found]">sources</a> of forge.ocamlcore.org and help us to maintain them</li>
 </ul>
 <p>Merry Christmas and Happy New Year</p>
 <p>Sylvain Le Gall, on behalf of OCamlCore.org administration team</p>

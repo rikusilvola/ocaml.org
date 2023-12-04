@@ -40,7 +40,7 @@ Coq 8.6 includes:
   Tassi and Tobias Tebbi.</li>
 </ul>
 
-<p>More information can be found in the <a href="https://coq.inria.fr/distrib/V8.6beta1/CHANGES">CHANGES</a> file. Feedback and
+<p>More information can be found in the <a href="https://coq.inria.fr/distrib/V8.6beta1/CHANGES - [404 Not Found]">CHANGES</a> file. Feedback and
 <a href="https://coq.inria.fr/bugs">bug reports</a> are extremely welcome.</p>
 
 <p>Coq 8.6 initiates a time-based release cycle, with a major version being

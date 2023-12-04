@@ -61,7 +61,7 @@ asymmetric cryptography, we rely on [<code>zarith</code>][^15], which wraps
 operating system on which the source is compiled and the binary is executed, as
 well as the underlying hardware. Two effectful frontends for
 the pure TLS core are implemented, dealing
-with side-effects such as reading and writing from the network: <a href="http://ocsigen.org/lwt/api/Lwt_unix">Lwt_unix</a> and
+with side-effects such as reading and writing from the network: <a href="http://ocsigen.org/lwt/api/Lwt_unix - [404 Not Found]">Lwt_unix</a> and
 Mirage, so applications can run directly as a Xen unikernel.</p>
 <h3>Why a new TLS implementation?</h3>
 <p><strong>Update:</strong>

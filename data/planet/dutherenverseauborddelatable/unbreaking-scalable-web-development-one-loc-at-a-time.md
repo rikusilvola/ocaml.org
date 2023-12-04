@@ -57,7 +57,7 @@ source:
 <pre class="brush: fsharp; title: ; notranslate">
  server = one_page_server(&quot;Hello&quot;, -&gt; &lt;&gt;Hello, web!&lt;/&gt;)
 </pre>
-<div style="text-align:right;"><a href="https://gist.github.com/985817">Fork me on github</a></div>
+<div style="text-align:right;"><a href="https://gist.github.com/985817 - [404 Not Found]">Fork me on github</a></div>
 <p>Second variant: 2 eloc</p>
 <pre class="brush: fsharp; title: ; notranslate">
 server = Server.simple_dispatch(_ -&gt;

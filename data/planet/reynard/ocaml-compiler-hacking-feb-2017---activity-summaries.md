@@ -20,7 +20,7 @@ source:
 
 <ul>
   <li>
-    <p>Mark Shinwell focussed on the next version of <a href="https://blogs.janestreet.com/flambda/">Flambda</a>.</p>
+    <p>Mark Shinwell focussed on the next version of <a href="https://blogs.janestreet.com/flambda/ - [1 Client error: SSL peer certificate or SSH remote key was not OK]">Flambda</a>.</p>
   </li>
   <li>
     <p>Olivier Nicole and Maxime Lesourd continued with their work on a <a href="https://github.com/ocamllabs/compiler-hacking/wiki/Things-to-work-on#signatured-open-command">signatured open command</a>. They didn&rsquo;t quite manage to finish it, but spent some time thinking of the best way to implement it <a href="https://github.com/OlivierNicole/ocaml/commits/signatured_open">here</a>.</p>
@@ -31,7 +31,7 @@ source:
 
 <ul>
   <li>
-    <p>Tadeu Zagallo from <a href="https://www.uber.com/en-GB/cities/london/">Uber</a> <a href="http://reynard.io/2016/11/16/CompHack.html">returned</a> with increased OCaml knowledge and found a fix for <a href="https://caml.inria.fr/mantis/view.php?id=7060">printing exceptions that happen within custom printers installed in the OCaml toplevel</a> (which are currently being swallowed). A PR will be on the way soon for review.</p>
+    <p>Tadeu Zagallo from <a href="https://www.uber.com/en-GB/cities/london/ - [406 Not Acceptable]">Uber</a> <a href="http://reynard.io/2016/11/16/CompHack.html">returned</a> with increased OCaml knowledge and found a fix for <a href="https://caml.inria.fr/mantis/view.php?id=7060">printing exceptions that happen within custom printers installed in the OCaml toplevel</a> (which are currently being swallowed). A PR will be on the way soon for review.</p>
   </li>
   <li>
     <p>Marek Bern&aacute;t from <a href="http://metail.com/">Metail</a> joined us for the first time to learn more about OCaml, and perused some Mantis bugs. He worked on finding a fix for <a href="https://caml.inria.fr/mantis/view.php?id=6604">expressions ignored by the toplevel and compiler</a> and prepared a change that issues warnings when the line directive is found in inappropriate positions or with inappropriate arguments. A PR will be incoming soon - this is great progress for a first session, with little prior understanding of the OCaml compiler!</p>
@@ -75,7 +75,7 @@ So a new feature, <code class="highlighter-rouge">Env.without_cmis</code> preven
     <p>Takayuki Imada continued with delving into <a href="https://github.com/TImada">MirageOS performance</a>, specifically looking at if and how server-side virtualisation might be a factor.</p>
   </li>
   <li>
-    <p>Ciaran Lawlor and Matt Harrison were busy with their Part II projects and preparing for presentations next week. Ciaran is working on incremental parsing under the supervision of Stephen Dolan, whilst Matt&rsquo;s project aims to provide secure, user-controlled sharing of personal data. Matt is supervised by KC Sivaramakrishnan and is linked with the <a href="http://www.databoxproject.uk/">Databox</a> project.</p>
+    <p>Ciaran Lawlor and Matt Harrison were busy with their Part II projects and preparing for presentations next week. Ciaran is working on incremental parsing under the supervision of Stephen Dolan, whilst Matt&rsquo;s project aims to provide secure, user-controlled sharing of personal data. Matt is supervised by KC Sivaramakrishnan and is linked with the <a href="http://www.databoxproject.uk/ - [403 Forbidden]">Databox</a> project.</p>
   </li>
 </ul>
 

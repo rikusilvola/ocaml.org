@@ -15,5 +15,5 @@ source:
 <ul>
   <li><a href="https://www.icloud.com/keynote/0Gkr1yM7XY-31aQleWf-fiW7A#The_Dawn_of_Formalized_Mathematics"><strong>Keynote presentation</strong></a>, viewable online in your browser. Turn on the speaker notes by clicking on the rectangular icon in the top-left corner.</li>
   <li><a href="http://math.andrej.com/asset/data/the-dawn-of-formalized-mathematics.pdf"><strong>Slides with speaker notes</strong></a> (PDF). Unfortunately, Keynote does not make the hyperlinks active when exporting PDF.</li>
-  <li><a href="https://youtu.be/zp6WleEjHUg"><strong>Video recording</strong></a> of the talk.</li>
+  <li><a href="https://youtu.be/zp6WleEjHUg - [429 Too Many Requests]"><strong>Video recording</strong></a> of the talk.</li>
 </ul>

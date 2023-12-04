@@ -11,7 +11,7 @@ authors:
 source:
 ---
 
-<p>Tarides is proud to sponsor the 12th annual programming contest <em><a href="https://journees-franciliennes-de-programmation.org/">Journ&eacute;es Franciliennes de Programmation!</a></em> On the 31st of May 2022, students from three different Parisian universities met at La Sorbonne University to engage in some friendly but lively competition.</p>
+<p>Tarides is proud to sponsor the 12th annual programming contest <em><a href="https://journees-franciliennes-de-programmation.org/ - [1 Client error: Timeout was reached]">Journ&eacute;es Franciliennes de Programmation!</a></em> On the 31st of May 2022, students from three different Parisian universities met at La Sorbonne University to engage in some friendly but lively competition.</p>
 <p>Bachelor students from La Sorbonne (Paris 6), Paris Cit&eacute; (Paris 7), and Paris Saclay (Paris 11) participated in a day-long programme creating solutions to a variety of problems. The aim of the competition was not that participants needed to demonstrate detailed knowledge on specific areas of programming, but rather that they applied their combined knowledge of programming usefully. At the end of the day, participants were awarded points based on the problems they&rsquo;d solved during the day and the winners were announced.</p>
 <p>The event was organised by teachers and researchers of computer science, some of whom specialise in OCaml. It was a great opportunity for students to experiment with OCaml under the guidance and supervision of experienced programmers.</p>
 <p>Tarides provided computer science books for the participants, along with some fun Tarides swag!</p>

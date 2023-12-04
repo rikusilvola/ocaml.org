@@ -16,6 +16,6 @@ source:
 for the fall! Last we left it, our very own Dominick LoBraico
 presented on the evolution of our internal configuration methodology
 and the systems that support it. For anybody that missed it, you can
-check out a recording of the talk <a href="https://www.youtube.com/watch?v=0pX7-AG52BU">on YouTube</a>.</p>
+check out a recording of the talk <a href="https://www.youtube.com/watch?v=0pX7-AG52BU - [429 Too Many Requests]">on YouTube</a>.</p>
 
 

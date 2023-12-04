@@ -3,7 +3,7 @@ title: Quick histograms
 description: "Having come back to actively working on OCI*ML recently, it\u2019s time
   I cracked on with some more features (I have been promising LOBs for a long time,
   sorry to anyone who\u2019s still waiting)\u2026"
-url: https://gaius.tech/2012/06/15/quick-histograms/
+url: https://gaius.tech/2012/06/15/quick-histograms/ - [1 Client error: Couldn't resolve host name]
 date: 2012-06-15T20:35:48-00:00
 preview_image: https://gaiustech.files.wordpress.com/2012/06/qh.png
 featured:
@@ -12,7 +12,7 @@ authors:
 source:
 ---
 
-<p>Having come back to actively working on <a href="http://gaiustech.github.com/ociml/">OCI*ML</a> recently, it&rsquo;s time I cracked on with some more features (I have been promising <a href="http://docs.oracle.com/cd/B28359_01/appdev.111/b28393/adlob_intro.htm#ADLOB001">LOBs</a> for a long time, sorry to anyone who&rsquo;s still waiting). Just to get warmed up, inspired by <a href="http://github.com/holman/spark">spark</a> I have added a quick histogram function, similar to <a href="https://gaiustech.wordpress.com/2011/05/14/ocaml-as-a-sqlplus-replacement/">quick query</a> for interactive use. This requires a query of the form of a label and a number, for example a simple view:</p>
+<p>Having come back to actively working on <a href="http://gaiustech.github.com/ociml/ - [404 Not Found]">OCI*ML</a> recently, it&rsquo;s time I cracked on with some more features (I have been promising <a href="http://docs.oracle.com/cd/B28359_01/appdev.111/b28393/adlob_intro.htm#ADLOB001">LOBs</a> for a long time, sorry to anyone who&rsquo;s still waiting). Just to get warmed up, inspired by <a href="http://github.com/holman/spark">spark</a> I have added a quick histogram function, similar to <a href="https://gaiustech.wordpress.com/2011/05/14/ocaml-as-a-sqlplus-replacement/">quick query</a> for interactive use. This requires a query of the form of a label and a number, for example a simple view:</p>
 <pre class="brush: sql; title: ; wrap-lines: false; notranslate">
 SQL&gt; create view v1 as
 select object_type, count(1) as howmany from user_objects group by object_type;

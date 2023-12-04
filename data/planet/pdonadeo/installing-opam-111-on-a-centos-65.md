@@ -16,7 +16,7 @@ source:
 <p class="noindent">No problem, <a href="https://opam.ocaml.org/" title="OPAM -  Home">OPAM</a> come to the rescue! No. The OPAM team doesn't provide a binary executable compatible with the (actually very old) system libraries present in CentOS.
 </p>
 
-<p class="noindent">Ok, step back: OPAM can be compiled from sources (<a href="https://opam.ocaml.org/doc/Advanced_Install.html" title="OPAM -  Advanced Install">instructions here</a>) so it's just a matter of minutes. Again: nope. To compile OPAM you need at least OCaml 3.12.1, while in CentOS we have only 3.11.2.</p>
+<p class="noindent">Ok, step back: OPAM can be compiled from sources (<a href="https://opam.ocaml.org/doc/Advanced_Install.html - [404 Not Found]" title="OPAM -  Advanced Install">instructions here</a>) so it's just a matter of minutes. Again: nope. To compile OPAM you need at least OCaml 3.12.1, while in CentOS we have only 3.11.2.</p>
 
 <p class="noindent">Step back: first compile and install OCaml from sources. This time I say no, because the whole point of OPAM is to get an up and running OCaml environment in a few minutes, which is <strong>actually true</strong> in most cases.</p>
 

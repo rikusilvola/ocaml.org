@@ -12,7 +12,7 @@ source:
 
 
 Fr&eacute;d&eacute;ric Blanqui is pleased to announce  a new release of CoLoR.
-<br/> You can download it and find more details on <a href="http://color.loria.fr/">http://color.loria.fr/</a>.
+<br/> You can download it and find more details on <a href="http://color.loria.fr/ - [1 Client error: Couldn't resolve host name]">http://color.loria.fr/ - [1 Client error: Couldn't resolve host name]</a>.
 <br/> The most important new features are:
 <br/><br/>
 <ul>

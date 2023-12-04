@@ -25,13 +25,13 @@ authors:
 </li>
 <li><a href="http://github.com/mirage/ocaml-dns">ocaml-dns</a> is a pure OCaml implementation of the DNS protocol, including a server and stub resolver.
 </li>
-<li><a href="http://github.com/mirage/ocaml-re">ocaml-re</a> is a pure OCaml version of several regular expression engines, including Perl compatibility.
+<li><a href="http://github.com/mirage/ocaml-re - [404 Not Found]">ocaml-re</a> is a pure OCaml version of several regular expression engines, including Perl compatibility.
 </li>
 <li><a href="http://github.com/mirage/ocaml-uri">ocaml-uri</a> handles parsing the surprisingly complex URI strings.
 </li>
 <li><a href="http://github.com/mirage/ocaml-cohttp">ocaml-cohttp</a> is a portable HTTP parser, with backends for Mirage, Lwt and Core/Async. This is a good example of how to factor out OS-specific concerns using the OCaml type system (and I plan to blog more about this soon).
 </li>
-<li><a href="http://github.com/mirage/ocaml-cow">ocaml-cow</a> is a set of syntax extensions for JSON, CSS, XML and XHTML, which are explained <a href="https://mirage.github.io/wiki/cow">here</a>, and used by this site.
+<li><a href="http://github.com/mirage/ocaml-cow">ocaml-cow</a> is a set of syntax extensions for JSON, CSS, XML and XHTML, which are explained <a href="https://mirage.github.io/wiki/cow - [404 Not Found]">here</a>, and used by this site.
 </li>
 <li><a href="http://github.com/mirage/dyntype">ocaml-dyntype</a> uses camlp4 to <a href="http://anil.recoil.org/papers/2011-dynamics-ml.pdf">generate dynamic types</a> and values from OCaml type declarations.
 </li>
@@ -40,6 +40,6 @@ authors:
 <li><a href="http://github.com/mirage/ocaml-openflow">ocaml-openflow</a> implements an OCaml switch and controller for the Openflow protocol.
 </li>
 </ul>
-<p>There are quite a few more that are still being hacked for release by the team, but we're getting there very fast now. We also have the Mirage ports of <a href="http://github.com/avsm/ocaml-ssh">SSH</a> to integrate before the first release this year, and Haris has got some <a href="http://github.com/mirage/ocaml-crypto-keys">interesting DNSSEC</a> code!  If you want to get involved, join the <a href="https://mirage.io/about">mailing list</a> or IRC channel!</p>
+<p>There are quite a few more that are still being hacked for release by the team, but we're getting there very fast now. We also have the Mirage ports of <a href="http://github.com/avsm/ocaml-ssh">SSH</a> to integrate before the first release this year, and Haris has got some <a href="http://github.com/mirage/ocaml-crypto-keys - [404 Not Found]">interesting DNSSEC</a> code!  If you want to get involved, join the <a href="https://mirage.io/about - [404 Not Found]">mailing list</a> or IRC channel!</p>
 
       

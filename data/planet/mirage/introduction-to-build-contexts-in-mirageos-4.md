@@ -87,7 +87,7 @@ dns-resolver $ mirage configure -t hvt
 </li>
 <li>Dynamic linking
 </li>
-<li><strong>OCaml compiler toolchain</strong>: any compiler toolchain described by a <code>findlib.conf</code> file in the switch can be used by Dune in a build context. See <a href="https://linux.die.net/man/5/findlib.conf">https://linux.die.net/man/5/findlib.conf</a> for more details on how to write such a file.
+<li><strong>OCaml compiler toolchain</strong>: any compiler toolchain described by a <code>findlib.conf</code> file in the switch can be used by Dune in a build context. See <a href="https://linux.die.net/man/5/findlib.conf - [403 Forbidden]">https://linux.die.net/man/5/findlib.conf - [403 Forbidden]</a> for more details on how to write such a file.
 An important fact about the compiler toolchain is that Dune derives the C compilation rules from the <em>configuration</em>, as described in <code>ocamlc -config</code>.
 </li>
 </ul>
